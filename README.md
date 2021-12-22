@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AAhash S.S Manikkam
+- 👋 Hi, I’m AAhash S.S Aahash Pon Manikkam
 - 👀 I’m interested in Python, AI, Ml, Web dev
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Python based projects
