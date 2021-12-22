@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, AI, Ml, Web dev
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Python based projects
-- 📫 How to reach me contact on 9891427544
+- 📫 You can reach me on 9891427544 or moccer420@gmail.com
 
 <!---
 9968331181/9968331181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
