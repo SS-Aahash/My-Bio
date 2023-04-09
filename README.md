@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AAhash S.S Aahash Pon Manikkam
-- 👀 I’m interested in Python, AI, Ml, Web dev
+- 👀 I’m interested in c++,Python, AI, Ml, Web dev
 - 🌱 I’m currently learning c++/ Front-end WEB
 - 💞️ I’m looking to collaborate on front_end web based projects
 - 📫 You can reach me on moccer420@gmail.com
